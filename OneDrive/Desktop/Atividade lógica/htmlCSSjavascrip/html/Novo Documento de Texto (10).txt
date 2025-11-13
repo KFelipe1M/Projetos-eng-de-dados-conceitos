@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="eng>
+  <head>
+      <title>table</title>
+    </head>
+     <body>
+       <table>
+           <thead>
+           <th> Ocean </th> 
+           <th> Average Dept </th> 
+           <th> Maximum </th>
+           </thead>
+           <tbody>
+             <tr>
+             <td>Pacific</td>
+             <td>4,200</td>
+             <td>10,911</td>
+             </tr>   
+               </tbody>
+         </table>
+           
+        </body>
+</html>
