@@ -9,4 +9,4 @@ response = requests.get(
 )
 
 print(response.status_code)
-print(response)
+print(response.json())
